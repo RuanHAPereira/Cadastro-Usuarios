@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" width="16px" height="16px" xmlns="http://www.w3.org/2000/svg">
+<path transform="translate(0)" d="m0 0h1024v1024h-1024z" fill="#DE0326"/>
+<path transform="translate(262,301)" d="m0 0h499l1 1-1 548-4 16-4 10-6 10-11 12-11 8-12 6-14 4-5 1h-366l-15-3-10-4-11-7-10-9-9-10-8-15-4-15-1-8v-544z" fill="#FEFEFD"/>
+<path transform="translate(301,180)" d="m0 0h420l17 3 16 6 13 8 13 11 9 11 8 14 6 16 3 16v8h-589l-1-1v-9l3-16 6-15 7-12 8-10 9-9 15-10 13-6 16-4z" fill="#FEFEFD"/>
+<path transform="translate(505,373)" d="m0 0h13l10 5 6 7 3 7 1 5v418l-2 11-6 9-8 6-8 2-10-1-9-5-7-8-3-12v-421l3-10 6-7 8-5z" fill="#DE0326"/>
+<path transform="translate(359,373)" d="m0 0h15l9 5 7 9 2 6v427l-3 9-5 7-9 6-4 1h-10l-9-4-7-6-4-8-1-4v-428l3-7 7-8 6-4z" fill="#DE0326"/>
+<path transform="translate(650,373)" d="m0 0h14l8 4 5 5 4 6 2 7v425l-4 11-4 5-10 6-4 1h-8l-10-4-5-5-5-6-2-7v-427l3-8 7-8 6-4z" fill="#DE0326"/>
+<path transform="translate(461,106)" d="m0 0h92l19 1 11 4 10 8 7 9 5 11 2 12-1 1h-190l-1-1v-7l5-14 8-11 11-8 11-4z" fill="#FEFEFD"/>
+</svg>
